@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practising the GitHub Flow
+Hi, finally going over all steps of github again to see how to merge this (of at all) in education.
